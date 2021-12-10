@@ -1,7 +1,5 @@
-# Titlu Paul Coleg2
+# Advent of Code
 
-## Subtitlu master
+## My personal solution repository
 
-- list item 1
-- list item 2
-- list item 3
+Only 2021 for now :)
