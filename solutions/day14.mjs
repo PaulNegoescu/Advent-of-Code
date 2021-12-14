@@ -49,7 +49,7 @@ export function main(input) {
   }
 
   let letterCounts = {
-    // ne trebuie prima litera din input numarata odata ca in iteratia de jos sarim peste ea
+    // ne trebuie prima litera din input numarata odata ca in iteratia de jos nu consideram ca prima pereche ever avea litera aia
     [initial[0]]: 1,
   };
 
